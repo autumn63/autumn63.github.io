@@ -1,13 +1,13 @@
 ---
-title: "MyTitle."
+title: "Park Hyeonseok."
 layout: splash
 header:
   overlay_color: "#fff"
   overlay_filter: "0.1"
   overlay_image: /assets/images/concrete.jpg
   actions:
-    - label: "Button"
-      url: "/sample/"
+    - label: "Come on"
+      url: "/Hanyang university mascot /"
 excerpt: " "
 intro:
   - excerpt: ""
@@ -15,8 +15,8 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-## Title
+## Myspace
 
-Body
+Hello!
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
